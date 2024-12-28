@@ -43,30 +43,11 @@
 </div>
 <input type="hidden" name="page" value="0">
 <input type="hidden" name="orderby" value="">
-<span style="font-size: 13px;line-height: 20px;border: 0;text-decoration: none;color: #009;">
-<strong><a href="https://proxybay.unblockit.download/" title="List of Pirate Bay proxies">More Pirate Bay Proxies</a></strong>
-<br>
-<strong><a href="https://proxybay.unblockit.download/setup.html" title="Create your own proxy">Create your own proxy</a></strong>
-</span>
 </form>
 </div>
 </section>
 </main>
 <footer>
-<nav>
-<div>
-<a href="http://piratebayztemzmv.onion" title="tor address">TOR</a> |
-<a href="https://pirates-forum.org/" title="discussion forum" target="_blank">Forum</a> |
-<a href="https://www.azirevpn.com/landing" target='_NEW'><b>VPN</b></a> |
-<a href="https://tmp.ninja" target='_NEW'><b>FileHosting</b></a>
-</div>
-</nav>
-<p style="overflow-wrap: break-word;">
- <a href="https://bitcoin.org" target="_NEW">BTC</a>: <b>3EoJMDs79b3ztkYvj2E1D98eHnZyCSQKso</b>
-<br /><a href="https://bitcoin.org" target="_NEW">BTC (Bech32)</a>: <b>bc1q9x30z7rz52c97jwc2j79w76y7l3ny54nlvd4ew</b>
-<br /><a href="https://litecoin.org" target="_NEW">LTC</a>: <b>LS78aoGtfuGCZ777x3Hmr6tcoW3WaYynx9</b>
-<br /><a href="https://getmonero.org" target="_NEW">XMR</a>: <b>46E5ekYrZd5UCcmNuYEX24FRjWVMgZ1ob79cRViyfvLFZjfyMhPDvbuCe54FqLQvVCgRKP4UUMMW5fy3ZhVQhD1JLLufBtu</b>
-</p>
 </footer>
 </body>
 </html>
